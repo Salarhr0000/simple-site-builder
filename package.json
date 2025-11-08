@@ -1,0 +1,8 @@
+{
+  "name": "startup-base",
+  "version": "1.0.0",
+  "description": "Initial project structure for Salar Startup",
+  "main": "index.js",
+  "scripts": {},
+  "license": "ISC"
+}
